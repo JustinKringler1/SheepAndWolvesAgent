@@ -1,0 +1,93 @@
+First Set of Test Cases:
+Test Case (Sheep: 100, Wolves: 99):
+Time Taken: 0.002392s
+
+Test Case (Sheep: 200, Wolves: 199):
+Time Taken: 0.022228s
+
+Test Case (Sheep: 300, Wolves: 299):
+Time Taken: 0.011652s
+
+Test Case (Sheep: 400, Wolves: 399):
+Time Taken: 0.020572s
+
+Test Case (Sheep: 500, Wolves: 499):
+Time Taken: 0.024316s
+
+Test Case (Sheep: 600, Wolves: 599):
+Time Taken: 0.032393s
+
+Test Case (Sheep: 700, Wolves: 699):
+Time Taken: 0.039516s
+
+Test Case (Sheep: 800, Wolves: 799):
+Time Taken: 0.048553s
+
+Test Case (Sheep: 900, Wolves: 899):
+Time Taken: 0.061601s
+
+Test Case (Sheep: 1000, Wolves: 999):
+Time Taken: 0.074026s
+
+Second Set of Test Cases:
+Test Case (Sheep: 100, Wolves: 50):
+Time Taken: 0.029877s
+
+Test Case (Sheep: 200, Wolves: 100):
+Time Taken: 0.164226s
+
+Test Case (Sheep: 300, Wolves: 150):
+Time Taken: 0.451301s
+
+Test Case (Sheep: 400, Wolves: 200):
+Time Taken: 0.859808s
+
+Test Case (Sheep: 500, Wolves: 250):
+Time Taken: 1.607800s
+
+Test Case (Sheep: 600, Wolves: 300):
+Time Taken: 2.752625s
+
+Test Case (Sheep: 700, Wolves: 350):
+Time Taken: 4.426070s
+
+Test Case (Sheep: 800, Wolves: 400):
+Time Taken: 6.664177s
+
+Test Case (Sheep: 900, Wolves: 450):
+Time Taken: 9.966424s
+
+Test Case (Sheep: 1000, Wolves: 500):
+Time Taken: 13.787129s
+
+Third Set of Test Cases:
+Test Case (Sheep: 100, Wolves: 75):
+Time Taken: 0.017838s
+
+Test Case (Sheep: 200, Wolves: 150):
+Time Taken: 0.105491s
+
+Test Case (Sheep: 300, Wolves: 225):
+Time Taken: 0.296464s
+
+Test Case (Sheep: 400, Wolves: 300):
+Time Taken: 0.654975s
+
+Test Case (Sheep: 500, Wolves: 375):
+Time Taken: 1.284356s
+
+Test Case (Sheep: 600, Wolves: 450):
+Time Taken: 2.120048s
+
+Test Case (Sheep: 700, Wolves: 525):
+Time Taken: 3.321394s
+
+Test Case (Sheep: 800, Wolves: 600):
+Time Taken: 4.236619s
+
+Test Case (Sheep: 900, Wolves: 675):
+Time Taken: 5.950323s
+
+Test Case (Sheep: 1000, Wolves: 750):
+Time Taken: 8.452750s
+
